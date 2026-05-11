@@ -1,3 +1,4 @@
+Author: Gabriel Ken Kudo de Lima
 Esse repositório há exercícios de vetores e processos feitos na FATEC ZL.
 
 Aqui estão os exercícios:
